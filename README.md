@@ -1,6 +1,6 @@
 # Prerequisites
 
-Install Golang. Using [GVM](https://github.com/moovweb/gvm) and Golang 1.12.4 is recommended
+Install Golang. Using [GVM](https://github.com/moovweb/gvm) and the latest version of Golang is recommended
 
 # Running
 
