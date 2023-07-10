@@ -5,13 +5,13 @@ Install Golang. Using [GVM](https://github.com/moovweb/gvm) and the latest versi
 # Running
 
 ```bash
-GCLOUD_PROJECT=your-gcp-project go run cmd/mywebapp/main.go
+GCLOUD_PROJECT=simprints-backend-hiring go run cmd/mywebapp/main.go
 ```
 
 # Testing
 
 ```bash
-GCLOUD_PROJECT=your-gcp-project go test ./... -count=1
+GCLOUD_PROJECT=simprints-backend-hiring go test ./... -count=1
 ```
 
 
